@@ -43,9 +43,6 @@ square 40
   |> rotate (degrees 60)
 ```
 
-## Relevant resources
-!! TODO !!
-
 ## Exercise
 
 Start with these imports:
@@ -72,3 +69,8 @@ import Time exposing (..)
 6. Shoot bullets instead
     - You'll need to maintain a `List` of bullets
 
+## Relevant resources
+
+- [Full syntax reference](http://elm-lang.org/learn/Syntax.elm)
+- [Shapes example](http://elm-lang.org/edit/examples/Elements/Shapes.elm)
+- [Using Signals](http://elm-lang.org/learn/Using-Signals.elm)
