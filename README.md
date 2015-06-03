@@ -68,6 +68,7 @@ import Time exposing (..)
     - Set a "shooting state" based on whether the key is down or not
 6. Shoot bullets instead
     - You'll need to maintain a `List` of bullets
+7. (and beyond) Just keep going! Add enemies, points, bitmap graphics, sounds, whatever!
 
 ## Relevant resources
 
