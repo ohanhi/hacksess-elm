@@ -1,3 +1,10 @@
+{-
+This is example code for the HackSess: Elm.
+
+Copyright Ossi Hanhinen, 2015
+License: BSD (3-clause) <http://opensource.org/licenses/BSD-3-Clause>
+-}
+
 import Window
 import Mouse
 import Keyboard
