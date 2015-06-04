@@ -79,6 +79,6 @@ import Time exposing (..)
 
 ## Example solution
 
-Please try to proceed with the exercise using any and all resources / examples you can find on (elm-lang.org)[http://elm-lang.org/].
+Please try to proceed with the exercise using any and all resources / examples you can find on [elm-lang.org](http://elm-lang.org/).
 
 However, if you're stuck and just want to see how someone has done it, there is an example solution: [invaders.elm](invaders.elm).
